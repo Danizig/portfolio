@@ -1,0 +1,36 @@
+<svg class="hero-design" width="647" height="622" viewBox="0 0 647 622">
+  <g id="Group_1" data-name="Group 1" transform="translate(-981 -190)">
+    <g class="square-anim" id="Rectangle_20" data-name="Rectangle 20" transform="translate(1460 341)" fill="#7b50f3" stroke="#707070" stroke-width="1">
+      <rect width="168" height="169" rx="40" stroke="none"/>
+      <rect x="0.5" y="0.5" width="167" height="168" rx="39.5" fill="none"/>
+    </g>
+    <g class="square-anim" id="Rectangle_21" data-name="Rectangle 21" transform="translate(1309 190)" fill="#47299b" stroke="#707070" stroke-width="1">
+      <rect width="168" height="169" rx="40" stroke="none"/>
+      <rect x="0.5" y="0.5" width="167" height="168" rx="39.5" fill="none"/>
+    </g>
+    <g class="square-anim" id="Rectangle_22" data-name="Rectangle 22" transform="translate(1141 341)" fill="#f6eff6" stroke="#707070" stroke-width="1">
+      <rect width="168" height="169" rx="40" stroke="none"/>
+      <rect x="0.5" y="0.5" width="167" height="168" rx="39.5" fill="none"/>
+    </g>
+    <g class="square-anim" id="Rectangle_23" data-name="Rectangle 23" transform="translate(1311 492)" fill="#4f239b" stroke="#707070" stroke-width="1">
+      <rect width="168" height="169" rx="40" stroke="none"/>
+      <rect x="0.5" y="0.5" width="167" height="168" rx="39.5" fill="none"/>
+    </g>
+    <g class="square-anim" id="Rectangle_24" data-name="Rectangle 24" transform="translate(1143 643)" fill="#fbeffa" stroke="#707070" stroke-width="1">
+      <rect width="168" height="169" rx="40" stroke="none"/>
+      <rect x="0.5" y="0.5" width="167" height="168" rx="39.5" fill="none"/>
+    </g>
+    <g class="square-anim" id="Rectangle_25" data-name="Rectangle 25" transform="translate(981 492)" fill="#6920e8" stroke="#707070" stroke-width="1">
+      <rect width="168" height="169" rx="40" stroke="none"/>
+      <rect x="0.5" y="0.5" width="167" height="168" rx="39.5" fill="none"/>
+    </g>
+    <g class="square-anim" id="Ellipse_6" data-name="Ellipse 6" transform="translate(1151 510)" fill="#f254a8" stroke="#707070" stroke-width="1">
+      <ellipse cx="74.5" cy="66.5" rx="74.5" ry="66.5" stroke="none"/>
+      <ellipse cx="74.5" cy="66.5" rx="74" ry="66" fill="none"/>
+    </g>
+    <g class="square-anim" d="Ellipse_7" data-name="Ellipse 7" transform="translate(1311 359)" fill="#a0f1ea" stroke="#707070" stroke-width="1">
+      <ellipse cx="74.5" cy="66.5" rx="74.5" ry="66.5" stroke="none"/>
+      <ellipse cx="74.5" cy="66.5" rx="74" ry="66" fill="none"/>
+    </g>
+  </g>
+</svg>
